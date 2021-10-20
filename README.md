@@ -1,5 +1,7 @@
 ### Hi there, I'm Brent Soler
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrentSoler&left_color=green&right_color=red)
+
 ## I'm currently a Senior HighSchool Software Developer Student
 
 - 🌱 I’m currently learning JavaScript & SQL
