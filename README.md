@@ -70,9 +70,5 @@
 ### Visitors:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrentSoler&left_color.=green&right_color=red)
 
-[discord]: https://discordapp.com/users/asdfgh12300#2360/
-
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrentSoler&left_color.=green&right_color=red)
 
 [discord]: https://discordapp.com/users/asdfgh12300#2360/
