@@ -4,8 +4,8 @@
 
 ## I'm currently a Senior HighSchool Software Developer Student
 
-🌱 I’m currently learning JavaScript & SQL
-🌱 I’m looking to learn more about web development
+-🌱 I’m currently learning JavaScript & SQL
+-🌱 I’m looking to learn more about web development
 
 ### HMU:
 
