@@ -27,14 +27,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
+<img src = "https://github-readme-stats.vercel.app/api?username=BrentSoler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 [discord]: https://discordapp.com/users/asdfgh12300#2360/
