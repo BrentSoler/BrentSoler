@@ -33,7 +33,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS    1 hr 21 mins    █████████████████▓░░░░░░░   70.06 % 
+HTML   34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.94 % 
 ```
 <!--END_SECTION:waka-->
 
