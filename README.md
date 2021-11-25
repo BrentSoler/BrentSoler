@@ -31,13 +31,6 @@
 ### Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=BrentSoler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<!--START_SECTION:waka-->
-```text
-CSS     40 mins         ███████████████░░░░░░░░░░   59.51 % 
-HTML    27 mins         ██████████░░░░░░░░░░░░░░░   40.13 % 
-```
-<!--END_SECTION:waka-->
-
 ### Visitors:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrentSoler&left_color.=green&right_color=red)
 
