@@ -1,11 +1,6 @@
 ### Hi there, I'm Brent Soler
 
-
-
-## I'm currently a Senior HighSchool Software Developer Student
-
--🌱 I’m currently learning React & Node<br>
--🌱 I’m looking to learn more about web development
+-🌱 I’m currently learning Next,Unity & Node<br>
 
 ### HMU:
 
