@@ -12,8 +12,5 @@
 ### Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=BrentSoler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-### Visitors:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BrentSoler&left_color.=green&right_color=red)
-
 
 [discord]: https://discordapp.com/users/asdfgh12300#2360/
