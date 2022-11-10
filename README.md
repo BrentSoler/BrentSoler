@@ -17,3 +17,5 @@
 <p align="center">
   <img src = "https://streak-stats.demolab.com?user=BrentSoler&theme=onedark&hide_border=true">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrentSoler)](https://github.com/anuraghazra/github-readme-stats)
